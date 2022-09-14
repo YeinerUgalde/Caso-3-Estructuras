@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../Punto #3/Stack.h"
+#include "../Punto #2,3/Stack.h"
 #include "string"
 
 using namespace std;
@@ -112,14 +112,14 @@ string lector(string pString){
             posFijo+= *operatorsStack->pop();
         }
         else{
-            *operatorsStack->pop() 
+            *operatorsStack->pop();
         }  
     }
     return posFijo;
     
 }
 int main(){
-    string str = "10+(9+3*8)"; 
+    string str = "10*4+(3-2)"; 
     //cin >> str;
     string postFijo = lector(str);
     cout << endl << "InFijo: " << str << endl;

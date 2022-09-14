@@ -1,18 +1,18 @@
 # Caso-3-Estructuras
 
-# Punto (1
+-Punto (1
 
   Algoritmo de infijo a postFijo:
   ------------------------------
   En este punto aplicando las reglas basicas para la transformacion de infijo a postfjio se implemento el algoritmo, para usarse solo se   debe de cambiar el str en la funcion main del codigo.
   
-# Punto (2)
+-Punto (2)
   
   Dos Pilas:
   ---------
   Implementado en el punto 3.
   
-# Punto (3)
+-Punto (3)
 
   Acomodamiento de aviones:
   -------------------------
